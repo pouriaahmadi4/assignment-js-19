@@ -1,0 +1,18 @@
+.parent{
+ background-color: cornflowerblue;
+ height: 500px;
+ width: 200px;
+border-radius: 14px;
+display: flex;
+flex-direction: column;
+}
+
+.child1, .child2, .child3{
+border: 1px  solid tomato ;
+margin: 20px;
+width: 100px;
+height: 20px;
+border-radius: 8px;
+color: bisque;
+background-color: tomato;
+}

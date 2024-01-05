@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.circle {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background-color: rgb(208, 255, 0);
+  border-radius: 50%;
+}
+
+#b1 {
+  position: absolute;
+  top: 100px;
+  left: 600px;
+}
+
+#b2 {
+  position: absolute;
+  top: 10px;
+  left: 100px;
+}
+
+#b3 {
+  position: absolute;
+  top: 400px;
+  left: 800px;
+}
+
+#b4 {
+  position: absolute;
+  top: 500px;
+  left: 299px;
+}
+
+.block {
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  border-radius: 50%;
+}
